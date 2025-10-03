@@ -35,12 +35,6 @@ frontend-store/
 
 ---
 
-## 📸 Capturas
-
-*(Opcional: agregar screenshots de la tienda una vez online)*
-
----
-
 ## 🌐 Demo
 
 👉 [Ver demo en vivo](https://fabrogarrido.github.io/frontend-store)
